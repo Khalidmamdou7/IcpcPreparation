@@ -1,5 +1,10 @@
 # IcpcPreparation
-A repo containing notes during our preparation for the ACM ICPC contests. Each topic has a folder containing notes about it (hard problems, hints, common mistakes, etc ..). 
+A repo containing notes during our preparation for the ACM ICPC contests. The language we are using is c++. 
+
+We are opened to any:
+- code reviews ✏️
+- Tips, tricks and advice to improve our coding skills 💡
+- Just sharing a link that might help, is highly appreciated 🔗
 
 # General Useful Resources
 - [Competitve programming book questions by topics](https://uhunt.onlinejudge.org). 
@@ -8,6 +13,10 @@ A repo containing notes during our preparation for the ACM ICPC contests. Each t
   - Contains questions for each topics.
   - Read the checklist tab
   
+# Navigate Repo
+This readme will contains the general useful resources and general notes. Each topic will have its own folder containing notes about it and hard problems. 
+All solutions folder will contains all of our solutions for different problems from different online judges.
+
 # Contribution
 To add notes, open a pull request and mention all of us; to keep all of us updated :).
 
