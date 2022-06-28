@@ -14,9 +14,15 @@ We are opened to any:
   - Read the checklist tab
   
 # Navigate Repo
-This readme will contains the general useful resources and general notes. Each topic will have its own folder containing notes about it and hard problems. 
-All solutions folder will contains all of our solutions for different problems from different online judges.
+This readme will contains the general useful resources and general notes. 
 
+- allSolutions folder
+  - will contains all of our solutions for different problems from different online judges.
+- topics folder
+  - Each topic will have its own folder containing notes about it, hard problems, common mistakes and etc.
+- teamContests folder
+  - we will try to solve some contests as a team and we will include our solutions for these contests there. In addition, we will include notes about our strategy and how to develop it next time.
+  
 # Contribution
 To add notes, open a pull request and mention all of us; to keep all of us updated :).
 
