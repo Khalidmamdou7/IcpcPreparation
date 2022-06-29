@@ -12,6 +12,10 @@ We are opened to any:
 - [Mostafa Saad Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1721765096).
   - Contains questions for each topics.
   - Read the checklist tab
+
+# General Notes and Checklists
+- [ ] For multiple input test cases, use two identical test cases consecutively. Both must output the same result. This is to check whether you have forgotten to initialize some variables, which will be easily identified if the 1st instance produce correct output but the 2nd one does not.
+
   
 # Navigate Repo
 This readme will contains the general useful resources and general notes. 
