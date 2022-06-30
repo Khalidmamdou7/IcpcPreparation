@@ -15,7 +15,7 @@ We are opened to any:
 
 # General Notes and Checklists
 - [ ] For multiple input test cases, use two identical test cases consecutively. Both must output the same result. This is to check whether you have forgotten to initialize some variables, which will be easily identified if the 1st instance produce correct output but the 2nd one does not.
-
+- [ ] Generate large random test cases. See if your code terminates on time and still give reasonably ok output (correctness is hard to verify here – this test is only to verify that your code runs within time limit and without <b>runtime errors<b>)
   
 # Navigate Repo
 This readme will contains the general useful resources and general notes. 
